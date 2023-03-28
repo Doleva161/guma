@@ -1,0 +1,29 @@
+/* style.css */
+body {
+  background-image: url("guma.jpg");
+  background-repeat: no-repeat;
+  height: 1vh;
+  width: auto;
+}
+
+h1 {
+  color: greenyellow;
+  margin-top: 20%;
+  text-align: center;
+}
+
+.msg {
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.msg--valid {
+  margin-top: 20%;
+  color: rgb(5, 214, 5);
+}
+
+.msg--invalid {
+  margin-top: 20%;
+  color: magenta;
+}
